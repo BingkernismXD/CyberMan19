@@ -1,0 +1,93 @@
+ <!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8">
+    <tittle><h1><i><marquee scrollamount="20" direction="right" width="1000" height="40"><b>SHIOTA MUSIC AUDIO PLAYLIST</b></marquee></i></h1></tittle>
+    <style>
+      /*untuk teks heading di tag <body>*/
+      h2
+      {
+        background-color: yellow;
+        color: crimson;
+        font-family: stars-wars;
+        text-align: left;
+        width: 45%;
+        margin: auto;
+        padding: 20px;
+        }
+        
+        body
+        {
+          background-image: url('alam.jpeg');
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+    </style>
+    </head>
+    <body bgcolor="volcadot">
+      <marquee scrollamount="20" direction="right"><img src="pb.png" /></marquee>
+      
+      <div>
+        
+      <p align="right"><h2><u>Peterpan-Separuh Aku</u>🎵</h2></p>
+      <audio controls>
+        <source src="peterpan.mp3" type="audio/mpeg">MUSIC PETERPAN
+      </audio>
+      <p><h2><u>Peterpan-Diatas Normal</u>🎵</p></h2>
+      <audio controls>
+        <source src="peterpan2.mp3" type="audio/mpeg">MUSIC PETERPAN
+      </audio>
+      <p><h2><u>Peterpan-Membebaniku</u>🎵</h2></p>
+      
+      </div>
+      
+      <audio controls>
+        <source src="peterpan4.mp3" type="audio/mpeg">MUSIC PETERPAN 
+      </audio>
+      <ul>
+        <li>Lagu Nostalgia</li>
+        <li>Lagu Era 2000-an</li>
+        <li>Lagu Kenangan</li>
+        <li>Lagu Populer</li>
+        <li>Lagu Hits</li>
+      </ul>
+      <img src="noah.jpg" width="1000" height="800" />
+      <table border="1">
+        <tr>
+          <th colspan="50" bgcolor="yellow">Portfolio Pencipta playlist</th>
+        </tr>
+        <tr>
+          <td rowspan="10">
+            <img src="shiota.jpg" width="650" />
+          </td>
+        </tr>
+        <tr>
+          <td>NAMA PENCIPTA</td>
+          <td>SHIOTA KAGAWA</td>
+        </tr>
+        <tr>
+          <td>PROFESI</td>
+          <td>
+            <ul>
+              <li>VIRTUAL YOUTUBER</li>
+              <li>PROGRAMMER</li>
+              <li>PENULIS FREELANCE</li>
+              <li>MEKANIK MOTOR</li>
+              <li>AFILIATOR</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+      <a href="https://www.facebook.com/Shiota19kagawa"><img src="facebook.jpg" alt="Akun Facebook" style="width:100px" "hight: 100px"></a>
+      <div>
+      <a href="https://youtube.com/c/SHIOTAKAGAWAID"><img src="youtube.jpeg" alt="Akun Youtube" style="width:100px" "hight: 100px"></a>
+      </div>
+      <details>
+        <summary><h2>Lihat Spesifikasi</h2></summary>
+        Perangkat: OPPO A37F, RAM 2GB, Prosesor: QualcommMSM8916Quadcore
+      </details>
+      <footer>
+        <h1>Copyright &copy; 2021 by Shiota Kagawa</h1>
+      </footer>
+    </body>
+</html>
